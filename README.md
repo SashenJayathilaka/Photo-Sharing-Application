@@ -1,6 +1,6 @@
 # Pinterest Clone with REACT JS
 
-## <a href="https://clone-dd86d.firebaseapp.com" target="_blank">🔴 LIVE DEMO</a>
+## <a href="https://6317681f60d1d329ac82cb4c--peaceful-stroopwafel-6b785b.netlify.app" target="_blank">🔴 LIVE DEMO</a>
 
 #### PREREQUISITES:
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
@@ -78,4 +78,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-<a href="https://clone-dd86d.firebaseapp.com" target="_blank">![image](https://user-images.githubusercontent.com/99184393/188680142-827fbcb6-7642-45f7-be82-cd406753ddfd.png)</a>
+<a href="https://6317681f60d1d329ac82cb4c--peaceful-stroopwafel-6b785b.netlify.app/" target="_blank">![image](https://user-images.githubusercontent.com/99184393/188680142-827fbcb6-7642-45f7-be82-cd406753ddfd.png)</a>
