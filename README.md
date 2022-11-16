@@ -54,7 +54,7 @@ Full Stack Photo Sharing Application with React Js (Same as pinterest) (Google A
 ### :camera: Screenshots
 
 <div align="center" display='flex'>
-<a href="https://photo-sharingo.netlify.app"><img width='1000rem'  src='./assets/ezgif-3-4059e17b09.gif' alt='image'/></a>
+<a href="https://photo-sharingo.netlify.app"><img src='./assets/ezgif-3-4059e17b09.gif' alt='image'/></a>
 </div>
 
 ## <a href="https://photo-sharingo.netlify.app" target="_blank">LIVE DEMO 💥</a>
