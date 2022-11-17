@@ -5,7 +5,7 @@
 # Photo Sharing Application with REACT.JS!
   
   <p>
-Full Stack Photo Sharing Application with React Js (Same as pinterest) (Google Authentication, create, edit, delete and save posts and comment on other people's posts, search and filter images)
+Full Stack Photo Sharing Application with React Js (like as pinterest) (Google Authentication, create, edit, delete and save posts and comment on other people's posts, search and filter images)
   </p>
   
   
