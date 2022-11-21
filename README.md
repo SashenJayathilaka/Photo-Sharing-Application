@@ -215,6 +215,12 @@ Clone the project
   git https://github.com/SashenJayathilaka/Photo-Sharing-Application.git
 ```
 
+change directory
+
+```bash
+  cd Photo-Sharing-Application
+```
+
 Install dependencies
 
 ```bash
